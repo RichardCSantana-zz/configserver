@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      enabled: false
+  application:
+    name: configserver
+eureka:
+  client:
+    enabled: false
