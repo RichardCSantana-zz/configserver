@@ -9,7 +9,7 @@
 
    The config repo used here must have at least **configserver.yml** with the configserver configurations.
    A repo sample:
-   /https://github.com/RichardCSantana/configserver-repo
+   https://github.com/RichardCSantana/configserver-repo
 
 ##Running 
 
